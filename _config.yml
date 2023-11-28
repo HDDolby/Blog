@@ -1,6 +1,6 @@
 # Configurations
 title:            Orcinusorca
-longtitle:        FAQ
+longtitle:        Blog
 author:           Orcinusorca
 email:            admin@hddolby.com
 description: >
@@ -9,12 +9,12 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://faq.orcinusorca.org'
+url:              'https://blog.orcinusorca.org'
 baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: iceyuamao0510/faq.github.io
+remote_theme: iceyuamao0510/blog
 
 toc:
   enabled: true
